@@ -1,0 +1,1 @@
+module.exports = { "parser": "babel-eslint", "extends": "airbnb-base", "extends": "plugin:prettier/recommended" };
